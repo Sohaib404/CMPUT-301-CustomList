@@ -47,7 +47,7 @@ public class CustomListTest {
 
         list.addCity(new City("Charlottetown", "Prince Edward Island"));
         list.addCity(new City("Calgary", "Alberta"));
-        assertEquals(3, list.getSize());
+        assertEquals(2, list.getSize());
 
     }
 
