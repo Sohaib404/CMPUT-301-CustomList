@@ -80,4 +80,8 @@ public class CustomList extends ArrayAdapter<City> {
         }
     }
 
+    public int getSize() {
+        return 0;
+    }
+
 }
